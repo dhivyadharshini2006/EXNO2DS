@@ -1,4 +1,4 @@
-# EXNO2DS
+![Screenshot 2025-02-12 191750 (1)](https://github.com/user-attachments/assets/d3dced95-471a-4a56-857b-d7a09316059c)![image](https://github.com/user-attachments/assets/9a1aa367-26f3-4585-a1a8-7dc60a35ae48)# EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -102,15 +102,6 @@ sns.heatmap(corr,annot=True)
 sns.pairplot(dt)
 ```
 ![Uploading image.png…]()
-
-
-
-
-
-
-
-
-
 
 
 # RESULT
