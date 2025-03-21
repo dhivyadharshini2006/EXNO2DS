@@ -1,4 +1,4 @@
-![Screenshot 2025-02-12 191750 (1)](https://github.com/user-attachments/assets/d3dced95-471a-4a56-857b-d7a09316059c)![image](https://github.com/user-attachments/assets/9a1aa367-26f3-4585-a1a8-7dc60a35ae48)# EXNO2DS
+# EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -101,8 +101,9 @@ sns.heatmap(corr,annot=True)
 ```
 sns.pairplot(dt)
 ```
-![Uploading image.png…]()
+![Screenshot 2025-03-21 113615](https://github.com/user-attachments/assets/99499374-f0ce-40df-908c-697b04261527)
+
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+      Hence EDA analysis for the given dataset is done successfully.
